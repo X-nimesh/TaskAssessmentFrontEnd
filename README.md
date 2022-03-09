@@ -1,4 +1,4 @@
-# installation using Vite
+# Installation using Vite
 
 ## Available Scripts
 
